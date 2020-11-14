@@ -1,9 +1,11 @@
 # How To Manage State in React with Redux
 
 From Digital Ocean tutorial:
+
 [https://www.digitalocean.com/community/tutorials/how-to-manage-state-in-react-with-redux](https://www.digitalocean.com/community/tutorials/how-to-manage-state-in-react-with-redux)
 
 of Joe Morgan:
+
 [https://www.digitalocean.com/community/users/joemorgan](https://www.digitalocean.com/community/users/joemorgan)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
